@@ -1,0 +1,11 @@
+1 c(sc1c2s3)cc1c(=Cc4cc(C)cc(C)c4)c2cc3
+2 c(sc1c2s3)cc1c(=Cc4ccc(C(F)(F)(F))cc4)c2cc3
+3 c(sc1c2s3)cc1c(=Cc4ccc(F)cc4)c2cc3
+4 c(sc1c2s3)cc1c(=Cc4cc(C(F)(F)(F))cc(C(F)(F)(F))c4)c2cc3
+5 c(sc1c(OCC(C)(C))c2c3)cc1c(OCC(C)(C))c2sc3
+6 c(sc1c2s3)cc1c(=Cc4ccccc4)c2cc3
+7 c(sc1c2s3)cc1c(=Cc4cc(OC)cc(OC)c4)c2cc3
+8 c(sc1c(c4cc(C)c(C)s4)c2c3)cc1c(c5cc(C)c(C)s5)c2sc3
+9 C1=CC2=C(S1)-C1=C(C2(C)C)C=C2-C3=C(C(C2=C1)(C)C)C=C(S3)
+10 C1SC2-C3=C(C(C=2C=1)(C)C)C=C(S3)
+11 c(sc1c2s3)cc=1c(C)c(C)c2cc3

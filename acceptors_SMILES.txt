@@ -1,0 +1,12 @@
+1 c(cc1)c(nsn2)c2c1
+2 C1=CC=C(C2C1=N[Se]N=2)
+3 C1=CN=C(C2C1=N[Se]N=2)
+4 c(c1nsnc13)c2nc(C)c(C)nc2c3
+5 c(c1N=SNc13)c2nc(C)c(C)nc2c3
+6 c1c(N=S=N2)c2c(s1)
+7 c(c1nsnc13)c2N=S=Nc2c3
+8 c1ccc(s1)
+9 C1=CC=C([Se]1)
+10 C1=C2C(=O)N(CC(C)C)C(=C2C(=O)N1CC(C)C)
+11 c1c(nc(C)c(C)n2)c2c(s1)
+12 c(cc1N(CC(C)C)C2(=O))ccc1C2=C(c3cc4)C(=O)N(CC(C)C)c3cc4
